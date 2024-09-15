@@ -17,8 +17,8 @@
 
 .content {
   display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
+  flex-direction: column;
+  justify-content:space-evenly;
   margin-top: 14px;
 }
 

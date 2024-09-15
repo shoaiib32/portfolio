@@ -1,26 +1,42 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "React build E-commerce",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "This project was built to learn modern technologies by creating a website",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+
+    "source": "https://github.com/shoaiib32/Food-Store"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Youtube Clone",
+    "imageSrc": "projects/youtube.png",
+    "description": "This project was built to learn modern technologies by creating a website",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+
+    "source": "https://github.com/shoaiib32/YouTube-Clone"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Simon Says Game",
+    "imageSrc": "projects/game.png",
+    "description": "This project was built to learn modern technologies by creating a website",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+
+    "source": "https://github.com/shoaiib32/Simons-says-game"
+  },
+  {
+    "title": "Pizza Store",
+    "imageSrc": "projects/pizzaStore.png",
+    "description": "This project was built to learn modern technologies by creating a website",
+    "skills": ["HTML", "CSS", "JavaScript"],
+
+    "source": "https://github.com/shoaiib32/Pizza-Store-App"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.png",
+    "description": "This project was built to learn modern technologies by creating a website",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+
+    "source": "https://github.com/shoaiib32/WEATHER-APP"
   }
 ]
