@@ -4,7 +4,7 @@
     "imageSrc": "projects/ecommerce.png",
     "description": "This project was built to learn modern technologies by creating a website",
     "skills": ["HTML", "CSS", "JavaScript", "React"],
-
+    "demo": "https://food-store-plum-pi.vercel.app/",
     "source": "https://github.com/shoaiib32/Food-Store"
   },
   {
@@ -12,15 +12,15 @@
     "imageSrc": "projects/youtube.png",
     "description": "This project was built to learn modern technologies by creating a website",
     "skills": ["HTML", "CSS", "JavaScript", "React"],
-
+    "demo": "https://you-tube-clone-eight-beta.vercel.app/",
     "source": "https://github.com/shoaiib32/YouTube-Clone"
   },
   {
     "title": "Simon Says Game",
     "imageSrc": "projects/game.png",
     "description": "This project was built to learn modern technologies by creating a website",
-    "skills": ["HTML", "CSS", "JavaScript", "React"],
-
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://simons-says-game-two.vercel.app/",
     "source": "https://github.com/shoaiib32/Simons-says-game"
   },
   {
@@ -28,7 +28,7 @@
     "imageSrc": "projects/pizzaStore.png",
     "description": "This project was built to learn modern technologies by creating a website",
     "skills": ["HTML", "CSS", "JavaScript"],
-
+    "demo": "https://github.com/shoaiib32/Pizza-Store-App",
     "source": "https://github.com/shoaiib32/Pizza-Store-App"
   },
   {
@@ -36,7 +36,7 @@
     "imageSrc": "projects/weather.png",
     "description": "This project was built to learn modern technologies by creating a website",
     "skills": ["HTML", "CSS", "JavaScript", "React"],
-
+    "demo": "https://github.com/shoaiib32/WEATHER-APP",
     "source": "https://github.com/shoaiib32/WEATHER-APP"
   }
 ]

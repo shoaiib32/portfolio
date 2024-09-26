@@ -6,6 +6,9 @@
   {
     "title": "CSS",
     "imageSrc": "skills/css.png"
+  },{
+    "title": "bootstrap",
+    "imageSrc": "skills/bootstrap.png"
   },
   {
     "title": "JavaScript",
@@ -14,5 +17,8 @@
   {
     "title": "React",
     "imageSrc": "skills/react.png"
+  },{
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
   }
 ]
